@@ -1,3 +1,3 @@
 **SOON**
 
-# https://kingester.github.io/druckenx-cdn3/
+# https://cdn3.druckenx.tk/
